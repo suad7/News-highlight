@@ -70,7 +70,7 @@ def get_articles(id):
         # with urllib.request.urlopen(get_articles_url) as url:
         get_articles_data= requests.get(get_articles_url)
         get_articles_response =  get_articles_data.json()
-		        # articles_results = json.loads(url.read())  
+		         
         articles_object = None
                         
         if get_articles_response['articles']:
