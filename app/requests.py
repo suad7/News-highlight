@@ -67,7 +67,6 @@ def get_articles(id):
         '''
         get_articles_url = articles_url.format(id,api_key)
         
-        # with urllib.request.urlopen(get_articles_url) as url:
         get_articles_data= requests.get(get_articles_url)
         get_articles_response =  get_articles_data.json()
 		         
