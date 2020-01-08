@@ -26,7 +26,7 @@ def get_sources(category):
 
        
         get_sources_data = requests.get(get_sources_url)
-        # get_sources_response = json.loads(get_sources_data)
+       
         get_sources_response = get_sources_data.json()
         sources_results = None
         
