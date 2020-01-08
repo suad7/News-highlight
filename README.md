@@ -3,7 +3,7 @@ News Highlight
 ### PROJECT AUTHOR
 Suad M.Shire
 ### DESCRIPTION
-This is a news application, that allows the user to get the top headlines news from different news sources.
+News Highlights is a web appliction that displays a list of news sources from around the world. A user is able to click on a news source and view an abreviated version of the particular news article. Clicking on the news article will then redirect you to the news article's web page.
 ### PREREQUISITES
 You need the following to start working on the project on your local computer:
 * A computer running on either Windows, MacOS or Ubuntu operating system installed with the following:
