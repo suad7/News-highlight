@@ -15,4 +15,8 @@ This is a news application, that allows the user to get the top headlines news f
  export NEWS_API_KEY='<Your-Api-Key>'
  python3.6 manage.py server`
  ```
+ ### TECHNOLOGIES USED
+ - python v3.6
+ - Boostrap
+ - Flask
  
