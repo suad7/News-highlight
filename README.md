@@ -11,6 +11,8 @@ This is a news application, that allows the user to get the top headlines news f
 - Create a virtual environment and access the folder via your virtual amchine.
 - Visit https://newsapi.org/ and register for an API key.
 - Create start.sh file and in it write the following lines:
-
-` export NEWS_API_KEY='<Your-Api-Key>'
+```
+ export NEWS_API_KEY='<Your-Api-Key>'
  python3.6 manage.py server`
+ ```
+ 
