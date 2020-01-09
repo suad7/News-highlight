@@ -29,7 +29,8 @@ You need the following to start working on the project on your local computer:
 
  - Run chmod +x start.sh follwoed by ./start.sh while in the project folder to start the project.
  - Once started, the project can be accessed on your localhost using the address: localhost:5000.
- - Alternatively the application can be accessed by visiting
+ - Alternatively the application can be accessed by visiting:https://suad7news.herokuapp.com
+ 
  
  
  ### TECHNOLOGIES USED
@@ -37,7 +38,7 @@ You need the following to start working on the project on your local computer:
  - Boostrap
  - Flask
  ### DEPLOYING (LIVE LINK)
-
+ https://suad7news.herokuapp.com
 ### BEHAVIOR DRIVEN DEVELOPMENT (SPECIFICATIONS)
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
